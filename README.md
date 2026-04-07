@@ -1,12 +1,6 @@
 # Global Civil Aviation Disruption 2026 — Iran US Conflict
 
-![Project Banner](https://img.shields.io/badge/Status-Completed-brightgreen)
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![MySQL](https://img.shields.io/badge/MySQL-8.0-orange)
-![PowerBI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
-
 ---
-
 ## Project Overview
 
 This end-to-end data analyst portfolio project analyses the **real-world impact of the 2026 Iran-US Military Conflict on Global Civil Aviation Networks.**
